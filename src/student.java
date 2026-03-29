@@ -1,0 +1,4 @@
+public class student {
+    int id;
+    int age;
+}
